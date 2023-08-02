@@ -1,0 +1,8 @@
+.DS_Store
+.vs_code
+*/.DS_Store
+*/.vs_code
+*.exe
+*.obj
+*/*.exe
+*/*.obj
